@@ -1,4 +1,6 @@
 DemoShortener::Application.routes.draw do
+  mount Shortener::Engine, :at => '/'
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
