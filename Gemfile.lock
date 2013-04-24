@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/bbtfr/shortener.git
-  revision: 99e9a4075a7a8f523308f3a396af515471c870cd
+  revision: 348975f374a1fe5e72dffb1544735db431b68de8
   specs:
-    shortener (0.0.1)
+    shortener (0.0.2)
       geoip
       mini_magick
       rails (>= 3.0.7)
@@ -83,7 +83,7 @@ GEM
     mini_magick (3.5.0)
       subexec (~> 0.2.1)
     multi_json (1.7.2)
-    pg (0.15.0)
+    pg (0.15.1)
     polyglot (0.3.3)
     rack (1.4.5)
     rack-cache (1.2)
