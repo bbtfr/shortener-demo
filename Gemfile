@@ -29,6 +29,7 @@ end
 
 gem 'jquery-rails'
 gem "shortener", github: "bbtfr/shortener"
+# gem "shortener", path: ".."
 gem "backbone-on-rails"
 gem "bootstrap-sass"
 

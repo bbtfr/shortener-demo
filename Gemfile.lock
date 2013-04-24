@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/bbtfr/shortener.git
-  revision: 06c5d551868791eb1ed49b6bfa11249fbccee8cc
+  revision: 99e9a4075a7a8f523308f3a396af515471c870cd
   specs:
     shortener (0.0.1)
       geoip
@@ -45,6 +45,8 @@ GEM
       ejs
       jquery-rails
       rails (>= 3.1)
+    bootstrap-sass (2.3.1.0)
+      sass (~> 3.2)
     builder (3.0.4)
     coffee-rails (3.2.2)
       coffee-script (>= 2.2.0)
@@ -139,6 +141,7 @@ PLATFORMS
 
 DEPENDENCIES
   backbone-on-rails
+  bootstrap-sass
   coffee-rails (~> 3.2.1)
   jbuilder
   jquery-rails
