@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/bbtfr/shortener.git
-  revision: 1a611024af4f0a0c77c26944e831289f2c0499ce
+  revision: 6f8fc0193affd18c63dca475c5e80e7a86ae54de
   specs:
     shortener (0.0.2)
       geoip
